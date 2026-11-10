@@ -9,8 +9,14 @@
 
 // Add your code right below, good luck!
 
+let firstName = "Carlos";
+let lastName = "Stevenson";
+let thisYear = 1965;
+let birthYear = 1947;
 
+let age = birthYear - thisYear;
 
+const greeting = `Hello! My name is ${firstName} ${lastName} and I am ${age}.`;
 
 
 // Do not change this
